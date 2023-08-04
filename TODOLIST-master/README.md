@@ -16,6 +16,4 @@ Through This website you can easily maintain the todolist for your daily work ea
 
    npm start  
    
-DEMO OF THE PROJECT
 
-https://to-do-list-c56t.onrender.com
